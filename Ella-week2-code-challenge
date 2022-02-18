@@ -1,4 +1,4 @@
-mport board
+import board
 import time
 from digitalio import DigitalInOut, Direction, Pull
 import neopixel
